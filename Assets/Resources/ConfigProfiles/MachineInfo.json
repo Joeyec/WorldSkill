@@ -1,0 +1,93 @@
+{
+  "MachineList": [
+    {
+      "Id": "0",
+      "CriteriaId": "0",
+      "Name": "Machine_1",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "1",
+      "CriteriaId": "0",
+      "Name": "Machine_2",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "2",
+      "CriteriaId": "0",
+      "Name": "Machine_3",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "3",
+      "CriteriaId": "0",
+      "Name": "Machine_4",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "4",
+      "CriteriaId": "0",
+      "Name": "Machine_5",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "5",
+      "CriteriaId": "1",
+      "Name": "Machine_6",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "6",
+      "CriteriaId": "2",
+      "Name": "Machine_7",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "7",
+      "CriteriaId": "3",
+      "Name": "Machine_8",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    }
+  ]
+}
+

@@ -1,0 +1,54 @@
+{
+  "CriteriaList": [
+    {
+      "Id": "0",
+      "Name": "A1",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "1",
+      "Name": "A2",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "2",
+      "Name": "A3",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "aa",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "3",
+      "Name": "A4",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "4",
+      "Name": "A5",
+      "Description": "123",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    }
+  ]
+}

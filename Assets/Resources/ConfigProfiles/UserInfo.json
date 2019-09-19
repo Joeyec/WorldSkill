@@ -1,0 +1,17 @@
+{
+  "List":[
+    {
+      "UserName": "1",
+      "UserPwd": "123"
+    },
+    {
+      "UserName": "2",
+      "UserPwd": "123"
+    },
+    {
+      "UserName": "3",
+      "UserPwd": "123"
+    }
+  ]
+  
+}

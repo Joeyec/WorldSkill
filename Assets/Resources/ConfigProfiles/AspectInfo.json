@@ -1,0 +1,479 @@
+{
+  "AspectList": [
+    {
+      "Id": "0",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct heating tube position",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Inserted in the middle of groove and the connection is in the middle of tube."
+        }
+      ],
+      "Sequence": "1",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "1",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.30",
+      "Description": "Appropriate storing; including bending radius and stress for fiber",
+      "Type": "2",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Not managed, or have strong bending (30mm for ITU-T G652.B_15mm for G652.D) or stress for fiber."
+        },
+        {
+          "Score": "1",
+          "Description": "No bending and stress, but it is imcomplete management."
+        },
+        {
+          "Score": "2",
+          "Description": "Managed, but it is a little irregular."
+        },
+        {
+          "Score": "3",
+          "Description": "Managed completely."
+        }
+      ],
+      "Sequence": "2",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "2",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct cable fixing and route - access route -",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Firmly fixing_on wall , using cable tie, appropriate cable route."
+        }
+      ],
+      "Sequence": "1",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "3",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Label on the box",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Labeling way based on labeling guideline."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "4",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct mounting position",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "A total displacement of 10 mm in the X and Y directions."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "5",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct mounting condition",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Firmly fixing, correct number of screws."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "6",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Label on the cable",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Labeling way based on labeling guideline. The cable label tie is separate from the fixing tie."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "7",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct cable fixing - entry point -",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Firmly fixing_TM is trough the support hole. , Using cable tie"
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "8",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Correct TM length",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "TM length will be no influence in fiber."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "9",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Appropriate fiber jacket condition",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "The end of the cable jacket is managed properly."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "10",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Appropriate manage fiber tube",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Appropriate tube stripping and managing."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "11",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "0",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Appropriate connector connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "Firmly connect to adaptor. Cap insert blank adaptor."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "12",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "1",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "13",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "5",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "14",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "5",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "15",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "5",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "16",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "6",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "17",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "6",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "18",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "7",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "19",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "8",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    },
+    {
+      "Id": "20",
+      "IdLabel": "BeJson",
+      "SequenceNumber": "0",
+      "SubCriteriaId": "9",
+      "Name": "aa",
+      "MaxMark": "0.10",
+      "Description": "Complete connection",
+      "Type": "1",
+      "RequirementModels": [
+        {
+          "Score": "0",
+          "Description": "80% minimum of all instructed connections."
+        }
+      ],
+      "Sequence": "0",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "false"
+    }
+  ]
+}
+

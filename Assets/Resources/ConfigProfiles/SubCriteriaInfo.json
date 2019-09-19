@@ -1,0 +1,125 @@
+{
+  "SubCriteriaList": [
+    {
+      "Id": "0",
+      "MachineId": "0",
+      "IdLabel": "A",
+      "Name": "Enclosure -Sumitomo Elec.- Fundamental installation",
+      "Description": "Enclosure -Sumitomo Elec.- Fundamental installation",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "1",
+      "MachineId": "0",
+      "IdLabel": "B",
+      "Name": "Enclosure -Sumitomo Elec.- Fundamental installation",
+      "Description": "Enclosure -Sumitomo Elec.- Fundamental installation",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "2",
+      "MachineId": "0",
+      "IdLabel": "C",
+      "Name": "Enclosure - VCOM - Fundamental installation",
+      "Description": "Enclosure - VCOM - Fundamental installation",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "3",
+      "MachineId": "0",
+      "IdLabel": "D",
+      "Name": "Undergrand Closure - VCOM - Fundamental installation",
+      "Description": "Undergrand Closure - VCOM - Fundamental installation",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "4",
+      "MachineId": "0",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "5",
+      "MachineId": "5",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "6",
+      "MachineId": "5",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "7",
+      "MachineId": "5",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "8",
+      "MachineId": "6",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    },
+    {
+      "Id": "9",
+      "MachineId": "7",
+      "IdLabel": "E",
+      "Name": "Shiled Panel - VCOM -",
+      "Description": "Shiled Panel - VCOM -",
+      "CreatorId": "",
+      "EditorId": "",
+      "CreationTime": "2019/7/3 22:11:01",
+      "LastEditTime": "2019/7/3 22:11:01",
+      "IsValid": "true"
+    }
+  ]
+}
+
